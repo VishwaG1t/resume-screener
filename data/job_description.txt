@@ -1,0 +1,7 @@
+
+Role: Data Scientist
+Requirements:
+- 3+ years of experience in Data Science or Machine Learning.
+- Proficient in Python, SQL, and Pandas.
+- Experience with Machine Learning frameworks like Scikit-Learn and TensorFlow.
+- Strong communication skills.
