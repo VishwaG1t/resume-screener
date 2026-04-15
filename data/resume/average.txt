@@ -1,0 +1,1 @@
+Data Analyst with 2 years of experience. Knows Python and SQL well. Uses Pandas for data manipulation. Familiar with basic machine learning concepts but has not used TensorFlow or Scikit-Learn in a professional setting.
